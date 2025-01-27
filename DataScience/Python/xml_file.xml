@@ -1,0 +1,14 @@
+<students>
+    <student name="John">
+        <gender>Male</gender>
+        <marks>85</marks>
+    </student>
+    <student name="Jane">
+        <gender>Female</gender>
+        <marks>92</marks>
+    </student>
+    <student name="Alex">
+        <gender>Male</gender>
+        <marks>78</marks>
+    </student>
+</students>
